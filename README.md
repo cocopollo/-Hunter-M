@@ -30,5 +30,5 @@ HunterM is a **digital forensics tool** designed to collect and analyze **key ma
 ---
 ## ⚡ Usage
 
-python hunterm.py -e output_directory
+Python HunterM.py -e output_directory
 
