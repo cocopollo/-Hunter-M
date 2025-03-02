@@ -12,7 +12,7 @@ This tool collects a comprehensive set of forensic artifacts:
 
 A professional banner "Hunter M" is displayed at the top of the report.
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [MahmoudSwelam]
 Licensed under the MIT License.
 """
 
