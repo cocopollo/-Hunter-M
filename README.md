@@ -1,4 +1,4 @@
-# HunterM DFIR - macOS Forensics 🕵️‍♂️
+# HunterM - macOS Forensics 🕵️‍♂️
 
 ![Banner](docs/banner.png)
 
