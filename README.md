@@ -28,7 +28,7 @@ HunterM is a **digital forensics tool** designed to collect and analyze **key ma
 | **Installed Applications** | Lists all installed applications |
 
 ---
-⚡ Usage
-Run the tool to collect forensic artifacts:
+## ⚡ Usage
 
-python HunterM.py -e output_directory
+python hunterm.py -e output_directory
+
