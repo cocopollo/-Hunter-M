@@ -16,3 +16,19 @@ HunterM is a **digital forensics tool** designed to collect and analyze **key ma
 - ✅ Exports collected artifacts into **structured reports**
 - ✅ **No dependencies** (except `colorama` for colored output)
 
+## 📌 Collected Artifacts
+
+| **Artifact**            | **Description** |
+|-------------------------|---------------------------------------------|
+| **Login Items**         | Applications that start automatically at login |
+| **Network Connections** | Active network connections (ESTABLISHED state) |
+| **Zsh History**         | Extended shell history with timestamps |
+| **System Information**  | OS version, kernel details, timezone |
+| **Browser History**     | Safari, Chrome, and Firefox visited sites |
+| **Installed Applications** | Lists all installed applications |
+
+---
+⚡ Usage
+Run the tool to collect forensic artifacts:
+
+python HunterM.py -e output_directory
