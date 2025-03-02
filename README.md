@@ -1,4 +1,4 @@
-# HunterM DFIR - macOS Forensic Artifact Collector 🕵️‍♂️
+# HunterM DFIR - macOS Forensics 🕵️‍♂️
 
 ![Banner](docs/banner.png)
 
