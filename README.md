@@ -1,6 +1,6 @@
 # HunterM - macOS Forensics 🕵️‍♂️
 
-![Banner](docs/banner.png)
+![Banner](banner.png)
 
 ### A powerful macOS DFIR artifact collection tool for forensic analysis.
 
